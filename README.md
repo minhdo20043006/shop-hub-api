@@ -54,7 +54,7 @@ src/
   — Ứng dụng mobile (Flutter)
 
 
-## 👨‍💻 Tác giả
+## 👨‍💻 Nhóm phát triển
 
 **Đỗ Quốc Minh** (minhdo20043006) — Fullstack Developer  
 Dự án nhóm — Computing Project, Aptech 2026
